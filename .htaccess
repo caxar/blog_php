@@ -1,0 +1,5 @@
+php_value display 1
+php_value display_startup_errors 1
+php_value error_reporting E_NOTICE
+ServerSignature Off
+AddDefaultCharset UTF-8
